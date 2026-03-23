@@ -51,9 +51,10 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (add your link)
-- 🌐 Portfolio: (add your link)
-- 📧 Email: (your email)
+- 💼 LinkedIn: https://www.linkedin.com/in/kushal-sri-rangam-a1857b2a0/
+- 🌐 Portfolio: https://portfolio-hnjdcdtic-kushalsrirangams-projects.vercel.app
+- 📧 Email (Primary): kushalsrirangam8@gmail.com
+- 📧 Email (Academic): k_srirangam@u.pacific.edu
 
 ---
 
