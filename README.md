@@ -1,63 +1,32 @@
-# 👋 Hi, I'm Kushal Sri Rangam
+# Kushal Sri Rangam
 
-🚀 AI & Data Engineer | Smart Hat Creator | ML • IoT • Real-Time Systems  
+**AI/ML Engineering · Full-Stack Development · Computer Vision · Applied NLP**
 
----
+I build practical software systems that combine machine learning with usable applications. My interests include agentic AI, model evaluation, edge intelligence, APIs and cloud engineering.
 
-## 🧠 About Me
+## Selected projects
 
-- 🤖 Building **Smart Hat** — an AI-powered assistive system for visually impaired users  
-- 📊 Passionate about **Machine Learning, Computer Vision, and Data Engineering**  
-- ⚡ Focused on **real-time AI systems** and scalable solutions  
-- 🎯 Goal: Build impactful AI products that solve real-world problems  
+| Project | Focus | Repository |
+| --- | --- | --- |
+| **VisionCap / Smart Hat** | Raspberry Pi computer vision, ultrasonic sensing, assistive interface | [smart_hat](https://github.com/kushalsrirangam/smart_hat) |
+| **Resume Scanner** | Flask API and BERT-based occupational classification | [RESUME_SCANNER](https://github.com/kushalsrirangam/RESUME_SCANNER) |
+| **Laureate Lens** | Nobel Prize exploration, React/TypeScript and an Express chatbot | [Nobel_prize](https://github.com/kushalsrirangam/Nobel_prize) |
+| **Developer Portfolio** | React/Vite personal website | [portfolio](https://github.com/kushalsrirangam/portfolio) |
 
----
+## Technical interests
 
-## 🚀 Featured Projects
+- **AI/ML:** Python, PyTorch, TensorFlow Lite, BERT, computer vision
+- **Applications:** React, JavaScript/TypeScript, Flask, Express, REST APIs
+- **Data and tooling:** SQL, Firebase, Git, dashboards and visualization
+- **Currently exploring:** LangGraph multi-agent orchestration, retrieval-augmented generation and cloud observability
 
-### 🧠 Smart Hat (Main Project)
-- AI-powered wearable system using Raspberry Pi + Computer Vision  
-- Real-time object detection + voice alerts  
-- Integrated with Flask, Firebase, and mobile app  
+## Engineering approach
 
----
+I value readable repositories, documented architectures, reproducible evaluation, and clear distinctions between working functionality and future ideas. Recent repository documentation updates focus on making existing projects easy for engineers to understand and run.
 
-### 📄 Resume Scanner (AI)
-- Predicts job roles using Machine Learning (BERT-based model)  
-- Provides insights and analysis on resumes  
+## Links
+- [GitHub](https://github.com/kushalsrirangam)
+- [LinkedIn](https://www.linkedin.com/in/kushal-sri-rangam-a1857b2a0/)
+- Contact: kushalsrirangam8@gmail.com
 
----
-
-### 🌐 Portfolio
-- Built with React + Tailwind  
-- Showcases projects and technical skills  
-
----
-
-## 🛠️ Tech Stack
-
-- **Languages:** Python, JavaScript, SQL  
-- **AI/ML:** TensorFlow, TFLite, Scikit-learn, BERT  
-- **Web:** Flask, React  
-- **Tools:** Git, Firebase, Raspberry Pi  
-
----
-
-## 📊 GitHub Stats
-
-![Kushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kushalsrirangam&show_icons=true&theme=radical)
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/kushal-sri-rangam-a1857b2a0/
-- 🌐 Portfolio: https://portfolio-hnjdcdtic-kushalsrirangams-projects.vercel.app
-- 📧 Email (Primary): kushalsrirangam8@gmail.com
-- 📧 Email (Academic): k_srirangam@u.pacific.edu
-
----
-
-## ⚡ Fun Fact
-
-I build AI systems that interact with the real world 🚀
+> **AegisOps AI** is a planned multi-agent cloud incident investigation platform; it will be added to featured repositories after a working implementation is available.
